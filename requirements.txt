@@ -1,0 +1,7 @@
+gTTs
+openai
+moviepy
+Pillow
+streamlit
+langchain
+elevenlabs
